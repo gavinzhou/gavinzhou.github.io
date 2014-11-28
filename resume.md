@@ -39,10 +39,6 @@
 ###業務外
 *   Python, Heroku, Jubatus, Web API, vim
 
-###興味
-*   機械学習, 自然言語処理
-
 ##資格
 
-*   応用情報技術者試験(2012/10)
-*   TOEIC SCORE 720 (2008/10)
+*   CCNA(2014)
